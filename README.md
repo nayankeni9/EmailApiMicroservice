@@ -20,10 +20,10 @@ Once done run the project by using the following command:
 `http://192.168.99.100:8080/sendmail`
 
 Sample JSON message:
-`{
+{
 	"email_from": "justatestguyishere@gmail.com",
 	"email_to": "justatestguyishere@gmail.com",
 	"subject": "Another test email",
 	"body":"This is just a another test email with db"
 	
-}`
+}
